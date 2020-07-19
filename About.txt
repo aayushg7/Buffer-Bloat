@@ -1,0 +1,2 @@
+A Round Robin Scheduling algorithm in data queues to prevent
+Buffer Bloat in Network schedulers and gain higher efficiency.
